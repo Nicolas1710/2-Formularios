@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+}
+p{
+    color: blue; font-size: 50pt;
+}
+#numero1{
+    color: blueviolet; font-size: 19pt;
+    text-decoration: underline;
+}
+#numero2{
+    color: rgb(72, 68, 75); font-size: 15pt;
+}
+*{
+    color: rgb(3, 4, 97);
+}
+.emcabezado1{
+    font-size: 25pt;
+}
+*.warning{
+    color: red;
+}
